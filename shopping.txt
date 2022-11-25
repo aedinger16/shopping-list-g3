@@ -1,2 +1,4 @@
 gemuese 
 obst
+brot
+kaese
